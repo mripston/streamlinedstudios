@@ -24,7 +24,7 @@ description: "Building iOS apps that boost productivity and keep you informed, e
 #description: At Streamlined Studios, we craft innovative iOS apps designed to boost productivity and keep you informed. Whether it's receiving instant notifications for Redit updates or streamlining your daily tasks, our apps are built to help you stay organized, efficient, and ahead of the curve. Let us simplify your digital life—one app at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: streamlinedstudios
+twitter_username: StrmlinedStudio
 github_username:  streamlinedstudios
 logo: /assets/streamlinedstudios.png
 
