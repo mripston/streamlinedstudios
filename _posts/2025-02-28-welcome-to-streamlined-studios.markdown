@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Building Apps for a More Efficient Life!"
-date:   2025-02-28 13:10:19 -0500
+date:   2025-02-28
+author: "Streamlined Studios"
 categories: ios intro
 ---
 
